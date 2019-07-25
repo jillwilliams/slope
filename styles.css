@@ -1,0 +1,309 @@
+body {
+    background-image: url("./images/background.png"); /* The image used */
+    background-color: lightgray; /* Used if the image is unavailable */
+    height: 100%; /* You must set a specified height */
+    background-position: fixed; /* Center the image */
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-size: cover; /* Resize the background image to cover the entire container */
+    margin: 30px;
+}
+/* TITLE  */
+#h1 {
+    font-size: 2rem;
+    color: red;
+    font-family: 'Caveat',  cursive;
+}
+/* DIV ELEMENT:          
+MAIN BORDER AROUND THE OUTSIDE OF TH4E WHOLE PAGE */
+#mainBorder {
+    border: 2px aqua solid;
+    outline: 2px black double;
+    width: 90%;
+    height: auto;
+    margin-left: 5%;
+    margin-right: 5%;
+    background-color: #7F00FF;
+    padding: 20px;
+    padding: 10px;
+}
+/* HEADING 1:    TEXT
+MAIN TITLE OF THE PAGE */
+h1 {
+    font-size: 2rem;
+    font-family: 'Amatic SC', cursive;
+    color: aqua;
+    text-align: center;
+    text-shadow: 2px 2px 3px black;
+}
+/* PARAGRAPH TEXT FORMATTING */
+.paragraphText {
+    font-size: 1.8rem;
+    font-family: 'Amatic SC', cursive;
+    text-align: justify;
+    margin-left: 30px;
+    margin-right: 30px;
+    color: #7F00FF;
+    letter-spacing: 3px;
+    text-emphasis: bold;
+    /* text-shadow: 1px 1px 1px black; */
+}
+/* IMAGE:    A-FRAME HOUSE PICTURE */
+#Aframe {
+    width: 40%;
+    height: auto;
+    border: 2px peru solid;
+    outline: 2px black double;
+    margin-left: 30%;
+    margin-right: 30%;
+}
+/* DIV:   EXAMPLES OF SLOPE IN EVERY DAY LIFE */
+#exOfSlope {
+    width: 80%;
+    height: auto;
+    font-size: 1.5rem;
+    color: black;
+    font-family: inherit;
+    border: 2px black solid;
+    outline: 2px aqua double;
+    margin-left: 10%;
+    margin-right: 10%;
+    background-color: lightgray;
+    padding: 15px;
+}
+/* TEXT RELATED TO IMAGES */
+#imageExamples {
+    font-size: 1rem;
+}
+/* IMAGES:  EXAMPLES IN THE BOX */
+#picNumberOne {
+    width: 22%;
+    height: auto;
+    border: 2px aqua solid;
+    outline: 1px black double;
+    display: inline-block;
+    margin-left: 16%;
+    margin-right: 9%;
+}
+#picNumberTwo {
+    width: 20%;
+    height: auto;
+    border: 2px aqua solid;
+    outline: 1px black double;
+    display: inline-block;
+    margin-left: 9%;
+    margin-right: 16%;
+}
+/* TEXT:   ABOVE THE FIRST EXAMPLES OF EVERYDAY LIFE SLOPE BOX     "BELOW ARE SOME EXAMPLES...... */
+#para2 {
+    font-family: 'Bilbo', cursive;
+    color: black;
+    text-shadow: 1px 1px 1px aqua;
+    letter-spacing: 3px;
+    font-size: 1.5rem;
+}
+/* THE GREY "RULE" BOX FOR REDUCING SLOPE */
+#slopeRule {
+    width: 60%;
+    height: auto;
+    font-size: 1.5rem;
+    color: black;
+    font-family: inherit;
+    border: 2px black solid;
+    outline: 2px aqua double;
+    margin-left: 20%;
+    margin-right: 20%;
+    padding: 20px;
+    background-color: lightgray;
+}
+/* THE 6 IMAGES OF EVERYDAY EX OF SLOPE */
+#imagesOfSlope {
+    width: 90%;
+    height: auto;
+    font-size: 1.5rem;
+    color: black;
+    text-shadow: 0.5px 0.5px 0.5px teal;
+    font-family: inherit;
+    border: 1px black solid;
+    outline: 2px aqua double;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 0px 25px 0px 25px;
+    background-color: lightgray;
+}
+#image1 {
+    width: 25%;
+    height: auto;
+    border: 1px black solid;
+    outline: 1px grey solid;
+}
+#image2 {
+    width: 25%;
+    height: auto;
+    border: 1px white solid;
+    outline: 1px maroon solid;
+}
+#image3 {
+    width: 25%;
+    height: auto;
+    border: 1px #F4A460 solid;
+    outline: 1px maroon solid;
+}
+#image4 {
+    width: 25%;
+    height: auto;
+    border: 1px grey solid;
+    outline: 1px royalblue solid;
+}
+#image5 {
+    width: 25%;
+    height: auto;
+    border: 1px black solid;
+    outline: 1px red solid;
+}
+/* THE BORDER-BOX AROUND THE LOUVRE CALCULATION */
+#imagesOfSlope {
+    width: 60%;
+    height: auto;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+/* IMAGE OF THE LOUVRE SLOPE CALCULATION */
+#image6 {
+    width: 90%;
+    height: auto;
+    border: 2px aqua solid;
+    outline: 1px black solid;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+/* IMAGE OF THE SKATEBOARD SLOPE CALCULATION */
+#image7 {
+    width: 90%;
+    height: auto;
+    border: 2px aqua solid;
+    outline: 1px black solid;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+/* STUDENT PRACTICE SECTION */
+#studentExOfSlope1, #studentExOfSlope2, #studentExOfSlope3 {
+    width: 80%;
+    height: auto;
+    margin-left: 10%;
+    margin-right: 10%;
+    font-size: 1.5rem;
+    background-color: lightgrey;
+    border: 1px black solid;
+    outline: 1px aqua solid;
+}
+#exWords {
+    margin-left: 40px;
+}
+/* STUDENT PRACTICE PROBLEMS */
+#image8 {
+    width: 15%;
+    height: auto;
+    border: 1px black solid;
+    outline: 1px aqua solid;
+    margin-left: 40px;
+}
+#image9 {
+    width: 22%;
+    height: auto;
+    border: 1px black solid;
+    outline: 1px aqua solid;
+    margin-left: 40px;
+}
+#image10 {
+    width: 15%;
+    height: auto;
+    border: 1px black solid;
+    outline: 1px aqua solid;
+    margin-left: 40px;
+}
+/* EXAMPLE 1 SOLUTION */
+#vertHeight1, #vertHeight2, #vertHeight3 {
+    width: 10%;
+    height: 60px;
+    border: 1px black solid;
+    outline: 1px aqua solid;
+    font-size: 2rem;
+    color: purple;
+    text-align: center;
+    font-family: inherit;
+}
+#horizHeight1, #horizHeight2, #horizHeight3 {
+    width: 10%;
+    height: 60px;
+    border: 1px black solid;
+    outline: 1px aqua solid;
+    font-size: 2rem;
+    color: purple;
+    text-align: center;
+    font-family: inherit;
+}
+#submitBtn1, #submitButton2, #submitButton3 {
+    width: 14%;
+    height: 60px;
+    border: 1px black solid;
+    outline: 1px aqua solid;
+    display: inline-block;
+    font-family: inherit;
+    color: purple;
+    font-size: 1.3rem;
+    letter-spacing: 2px;
+    text-align: center;
+    padding: 5px;
+}
+#demo1, #demo2, #demo3 {
+    width: 15%;
+    height: 40px;
+    margin-left: 40px;
+    border: 1px black solid;
+    outline: 1px aqua solid;
+    background-color: white;
+    display: inline-block;
+    font-family: inherit;
+    color: purple;
+    font-size: 1.5rem;
+    letter-spacing: 2px;
+    text-align: center;
+    padding: 15px;
+}
+footer {
+    text-align: center;
+    font-size: 1.3rem;
+}
+
+
+
+/* font-family: 'Shadows Into Light', cursive;
+font-family: 'Dancing Script', cursive;
+font-family: 'Acme', sans-serif;
+font-family: 'Amatic SC', cursive;
+font-family: 'Satisfy', cursive;
+font-family: 'Kalam', cursive;
+font-family: 'Caveat', cursive;
+font-family: 'Cookie', cursive;
+font-family: 'Handlee', cursive;
+font-family: 'Merienda', cursive;
+font-family: 'Shadows Into Light Two', cursive;
+font-family: 'Architects Daughter', cursive;
+font-family: 'Bad Script', cursive;
+font-family: 'ZCOOL KuaiLe', cursive;  
+font-family: 'Rancho', cursive;
+font-family: 'Fredericka the Great', cursive;
+font-family: 'Just Another Hand', cursive;
+font-family: 'Reenie Beanie', cursive;
+font-family: 'Love Ya Like A Sister', cursive;
+font-family: 'Bubblegum Sans', cursive;
+font-family: 'Faster One', cursive;
+font-family: 'Give You Glory', cursive;
+font-family: 'Rye', cursive;
+font-family: 'Astloch', cursive;
+font-family: 'Eater', cursive;
+font-family: 'Creepster', cursive;
+font-family: 'Princess Sofia', cursive;
+font-family: 'Nosifer', cursive;
+font-family: 'Caesar Dressing', cursive;
+font-family: 'Srisakdi', cursive; */
