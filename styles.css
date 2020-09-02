@@ -11,7 +11,7 @@ body {
 #h1 {
     font-size: 2rem;
     color: red;
-    font-family: 'Caveat',  cursive;
+    font-family: "Shadows Into Light";
 }
 /* DIV ELEMENT:          
 MAIN BORDER AROUND THE OUTSIDE OF TH4E WHOLE PAGE */
@@ -30,7 +30,7 @@ MAIN BORDER AROUND THE OUTSIDE OF TH4E WHOLE PAGE */
 MAIN TITLE OF THE PAGE */
 h1 {
     font-size: 2rem;
-    font-family: 'Amatic SC', cursive;
+    font-family: "Shadows Into Light";
     color: aqua;
     text-align: center;
     text-shadow: 2px 2px 3px black;
@@ -38,7 +38,7 @@ h1 {
 /* PARAGRAPH TEXT FORMATTING */
 .paragraphText {
     font-size: 1.8rem;
-    font-family: 'Amatic SC', cursive;
+    font-family: "Shadows Into Light";
     text-align: justify;
     margin-left: 30px;
     margin-right: 30px;
